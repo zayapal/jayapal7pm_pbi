@@ -1,5 +1,5 @@
 *********
-Databases:
+Databases:==
 *********
 		Databases store data in structured format ( a few databases support unstructured and semi-structured) using Tables.
 
@@ -9,7 +9,7 @@ Databases:
 				Data Storage, Data Manipulation, Data Retrieval
 
 ************************************
-Semnatic Model or Cube or Pivot Databases:
+Semnantic Model or Cube or Pivot Databases:==
 ************************************
 	These are one kind of databases with multi dimension structure, contains tables.
 		Ex: SSAS [SQL Server Analysis Services], AAS[Azure Analysis Services], SAP-HANA, Hyperion Essbase etc.
