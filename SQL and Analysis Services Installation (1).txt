@@ -1,0 +1,74 @@
+*********
+Databases:
+*********
+		Databases store data in structured format ( a few databases support unstructured and semi-structured) using Tables.
+
+		Ex: Oracle, SQL Server, Teradata, DB2, Netezza etc.
+
+		Suitable for: 
+				Data Storage, Data Manipulation, Data Retrieval
+
+************************************
+Semnatic Model or Cube or Pivot Databases:
+************************************
+	These are one kind of databases with multi dimension structure, contains tables.
+		Ex: SSAS [SQL Server Analysis Services], AAS[Azure Analysis Services], SAP-HANA, Hyperion Essbase etc.
+	
+	Suitable For:
+			Limited volumes storage, aggregates and analytical calculations creation, quick retrieval and analysis
+
+************************************************************************
+Working with SQL Server Database
+**********************************************************************
+
+Two types of components need to be installed
+a) Server or instance [which holds data and provides services]
+b) Tool to connect and work with SQL Server Instance
+		Ex: Azure Query Studio, SSMS, SQL Developer, WinSQL, HelpSQL etc.
+
+===============
+Instance Download:
+=============
+
+1.SQL Server 2022 Express Download  [Instance Installation]
+-----------------------------------------------------------------------------
+https://www.microsoft.com/en-us/download/details.aspx?id=104781
+
+Note: Observe system requirements
+
+2. Click Setup.exe and follow the navigation.
+
+Note: If it does not properly and fails with an error, then download Developer edition and use it.
+
+Click on the below
+https://www.microsoft.com/en-in/sql-server/sql-server-downloads
+Go to Developer Edition, download and install.
+
+Post Installation:
+--------------------
+Go to Services (search or run promt-> services)-> ENsure SQL Server is installed and running (if it is not running, right click and start)
+
+=========
+Tool Download
+===========
+
+SQL Server Management Studio Download [Tool installation]
+--------------------------------------------------------------------------------
+https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
+
+
+
+
+************************************************************************
+Working with SQL Server Analysis Services Database
+**********************************************************************
+
+
+
+
+
+
+
+
+
+
